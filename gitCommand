@@ -7,3 +7,7 @@ git commit -m 'Add one file and do changes in index file '
 git stash -> y wali local changes ko hatane ke lia 
 
 git stash pop -> LAst wala hataya hua changes ko wapas lane ke lia 
+
+git push -> local changes ko git pr dalna 
+
+git pull -> git chnages local pr lena 
