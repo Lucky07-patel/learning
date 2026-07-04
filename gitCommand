@@ -11,3 +11,7 @@ git stash pop -> LAst wala hataya hua changes ko wapas lane ke lia
 git push -> local changes ko git pr dalna 
 
 git pull -> git chnages local pr lena 
+
+git checkout -b new-branch
+
+git branch => to check the branch list and current branch 
